@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DailyTaskSamplePoc</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="something_went_wrong">Something went wrong.Please try again after some time.</string>
+    <string name="server_error_msg">Server Not Responding.Please try again Later</string>
+    <string name="title_home">Home</string>
+    <string name="title_country">Country</string>
+</resources>

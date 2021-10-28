@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/country_fill.xml" value="0.16979166666666667" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/country_line.xml" value="0.16979166666666667" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/country_selector.xml" value="0.16979166666666667" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/home_fill.xml" value="0.16979166666666667" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/home_line.xml" value="0.16979166666666667" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/home_selector.xml" value="0.16979166666666667" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.16979166666666667" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_covid_country_detail.xml" value="0.15364583333333334" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_covid_tracker.xml" value="0.2265625" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_detail.xml" value="0.2265625" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_home_screen.xml" value="0.17300724637681159" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_main.xml" value="0.10106382978723404" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_recycler_view_json.xml" value="0.2265625" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_vollley_ball.xml" value="0.16302083333333334" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/example_item.xml" value="0.12409420289855072" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/raw_item.xml" value="0.17300724637681159" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/menu/country_menu.xml" value="0.15364583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
