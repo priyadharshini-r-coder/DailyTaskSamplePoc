@@ -16,7 +16,7 @@
             android:name=".activity.CovidTrackerActivity"
             android:exported="true" />
         <activity
-            android:name=".activity.VollleyBallActivity"
+            android:name=".activity.VolleyBallActivity"
             android:exported="true" />
         <activity
             android:name=".activity.HomeScreen"

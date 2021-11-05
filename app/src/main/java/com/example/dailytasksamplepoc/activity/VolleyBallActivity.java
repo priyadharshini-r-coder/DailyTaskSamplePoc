@@ -17,7 +17,6 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
-import com.example.dailytasksamplepoc.MainActivity;
 import com.example.dailytasksamplepoc.R;
 import com.example.dailytasksamplepoc.utils.Constant;
 import com.google.android.material.textfield.TextInputEditText;
@@ -28,7 +27,7 @@ import org.json.JSONObject;
 import java.util.HashMap;
 import java.util.Map;
 
-public class VollleyBallActivity extends AppCompatActivity {
+public class VolleyBallActivity extends AppCompatActivity {
 
     TextInputEditText ed_Email,ed_Password;
     String strEmail,strPassword;
@@ -66,7 +65,7 @@ public class VollleyBallActivity extends AppCompatActivity {
     }
 
     private void callLoginService() {
-        pDialog = ProgressDialog.show( VollleyBallActivity.this ,"" ,"Wait..." ,false ,false );
+        pDialog = ProgressDialog.show( VolleyBallActivity.this ,"" ,"Wait..." ,false ,false );
         StringRequest postRequest = new StringRequest( Request.Method.POST , Constant.POST_URL ,
                 new Response.Listener <String>() {
                     @Override
@@ -78,7 +77,7 @@ public class VollleyBallActivity extends AppCompatActivity {
                             try {
                                 JSONObject jsonObject = new JSONObject(response);
                                 token = jsonObject.getString("token");
-                                startActivity(new Intent(VollleyBallActivity.this, HomeScreen.class));
+                                startActivity(new Intent(VolleyBallActivity.this, HomeScreen.class));
                                 finish();
                             } catch (JSONException e) {
                                 e.printStackTrace();
@@ -92,7 +91,7 @@ public class VollleyBallActivity extends AppCompatActivity {
                         // error
                         pDialog.dismiss();
                         Log.d( "Error.Response" ,String.valueOf( error ) );
-                        Toast.makeText(VollleyBallActivity.this, getString(R.string.something_went_wrong), Toast.LENGTH_SHORT).show();
+                        Toast.makeText(VolleyBallActivity.this, getString(R.string.something_went_wrong), Toast.LENGTH_SHORT).show();
                     }
                 }
         ) {
