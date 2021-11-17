@@ -13,6 +13,24 @@
         android:theme="@style/Theme.DailyTaskSamplePoc"
         android:usesCleartextTraffic="true">
         <activity
+            android:name=".kotlinomnicure.activity.ActivityHospitalList"
+            android:exported="false" />
+        <activity
+            android:name=".kotlinomnicure.activity.TransferPatientActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kotlinomnicure.activity.TrainingMaterialsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kotlinomnicure.activity.ActivityEnotesDetail"
+            android:exported="false" />
+        <activity
+            android:name=".kotlinomnicure.ActivityHospitalList"
+            android:exported="false" />
+        <activity
+            android:name=".conditionalnavigation.ConditionalNavigationActivity"
+            android:exported="true" />
+        <activity
             android:name=".activity.CovidTrackerActivity"
             android:exported="true" />
         <activity

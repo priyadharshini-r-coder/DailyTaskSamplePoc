@@ -3,23 +3,48 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/accept.xml" value="0.25833333333333336" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/country_fill.xml" value="0.16979166666666667" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/country_line.xml" value="0.16979166666666667" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/country_selector.xml" value="0.16979166666666667" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/custom_checkbox.xml" value="0.25833333333333336" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/fingerprint.xml" value="0.25833333333333336" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/home_fill.xml" value="0.16979166666666667" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/home_line.xml" value="0.16979166666666667" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/home_selector.xml" value="0.16979166666666667" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/ic_add_clinical_data.xml" value="0.25833333333333336" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/ic_chat_gallery.xml" value="0.25833333333333336" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.16979166666666667" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/transparent_bg.xml" value="0.25833333333333336" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/font/font.xml" value="0.27239583333333334" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/action_layout_menu_my_consults.xml" value="0.2265625" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_conditional_navigation.xml" value="0.14375" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_covid_country_detail.xml" value="0.15364583333333334" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_covid_tracker.xml" value="0.2265625" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_detail.xml" value="0.2265625" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_enotes.xml" value="0.2265625" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_enotes_detail.xml" value="0.2265625" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_enotes_details.xml" value="0.2265625" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_home_screen.xml" value="0.17300724637681159" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_hospital_list.xml" value="0.2421875" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_main.xml" value="0.10106382978723404" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_recycler_view_json.xml" value="0.2265625" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_vollley_ball.xml" value="0.16302083333333334" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/coffee_item.xml" value="0.2265625" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/donut_item.xml" value="0.2265625" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/example_item.xml" value="0.12409420289855072" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/fragment_coffee_entry_dialog.xml" value="0.2265625" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/fragment_coffee_list.xml" value="0.2265625" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/fragment_coffee_list2.xml" value="0.2265625" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/fragment_donut_entry_dialog.xml" value="0.2265625" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/fragment_donut_list.xml" value="0.2125" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/fragment_selection.xml" value="0.2265625" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/raw_item.xml" value="0.17300724637681159" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2265625" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/menu/bottom_nav_menu_list.xml" value="0.2265625" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/menu/country_menu.xml" value="0.15364583333333334" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/menu/main_menu.xml" value="0.2265625" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/menu/nav_drawer_menu.xml" value="0.2265625" />
       </map>
     </option>
   </component>
