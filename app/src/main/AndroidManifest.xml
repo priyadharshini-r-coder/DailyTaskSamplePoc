@@ -13,6 +13,15 @@
         android:theme="@style/Theme.DailyTaskSamplePoc"
         android:usesCleartextTraffic="true">
         <activity
+            android:name=".kotlinomnicure.activity.FilterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kotlinomnicure.activity.MyVirtualTeamActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kotlinomnicure.activity.VideoPlayerActivity"
+            android:exported="false" />
+        <activity
             android:name=".kotlinomnicure.activity.ActivityHospitalList"
             android:exported="false" />
         <activity

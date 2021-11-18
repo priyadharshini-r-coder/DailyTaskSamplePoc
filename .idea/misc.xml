@@ -29,6 +29,7 @@
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_hospital_list.xml" value="0.2421875" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_main.xml" value="0.10106382978723404" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_recycler_view_json.xml" value="0.2265625" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_video_player.xml" value="0.2265625" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_vollley_ball.xml" value="0.16302083333333334" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/coffee_item.xml" value="0.2265625" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/donut_item.xml" value="0.2265625" />
@@ -40,6 +41,7 @@
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/fragment_donut_list.xml" value="0.2125" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/fragment_selection.xml" value="0.2265625" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/raw_item.xml" value="0.17300724637681159" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/video_enc_resolution_item.xml" value="0.22552083333333334" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2265625" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/menu/bottom_nav_menu_list.xml" value="0.2265625" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/menu/country_menu.xml" value="0.15364583333333334" />
