@@ -13,6 +13,18 @@
         android:theme="@style/Theme.DailyTaskSamplePoc"
         android:usesCleartextTraffic="true">
         <activity
+            android:name=".kotlinomnicure.activity.OTPActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kotlinomnicure.activity.TermsAndConditionsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kotlinomnicure.activity.PatientAppointmentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kotlinomnicure.activity.LoginActivity"
+            android:exported="false" />
+        <activity
             android:name=".kotlinomnicure.activity.FilterActivity"
             android:exported="false" />
         <activity

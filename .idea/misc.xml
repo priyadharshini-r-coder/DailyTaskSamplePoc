@@ -7,6 +7,7 @@
         <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/country_fill.xml" value="0.16979166666666667" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/country_line.xml" value="0.16979166666666667" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/country_selector.xml" value="0.16979166666666667" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/cross.xml" value="0.24166666666666667" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/custom_checkbox.xml" value="0.25833333333333336" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/fingerprint.xml" value="0.25833333333333336" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/home_fill.xml" value="0.16979166666666667" />
@@ -27,6 +28,8 @@
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_enotes_details.xml" value="0.2265625" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_home_screen.xml" value="0.17300724637681159" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_hospital_list.xml" value="0.2421875" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_local_care_provider_sign_up_first.xml" value="0.22552083333333334" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_local_care_provider_sign_up_second.xml" value="0.23777173913043478" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_main.xml" value="0.10106382978723404" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_recycler_view_json.xml" value="0.2265625" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_video_player.xml" value="0.2265625" />
