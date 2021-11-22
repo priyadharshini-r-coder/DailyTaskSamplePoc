@@ -13,6 +13,36 @@
         android:theme="@style/Theme.DailyTaskSamplePoc"
         android:usesCleartextTraffic="true">
         <activity
+            android:name=".kotlinomnicure.activity.PatientAppointmentActivityInfohhh"
+            android:exported="false" />
+        <activity
+            android:name=".kotlinomnicure.activity.TeamGroupChatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kotlinomnicure.activity.GroupCallActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kotlinomnicure.activity.ChatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kotlinomnicure.activity.HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kotlinomnicure.activity.RemoteCompleteActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kotlinomnicure.activity.PDFViewerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kotlinomnicure.activity.WebViewActivity"
+            android:exported="false" />
+        <activity
+            android:name=".kotlinomnicure.activity.EncUtil"
+            android:exported="false" />
+        <activity
+            android:name=".kotlinomnicure.activity.ActivityConsultChartRemote"
+            android:exported="false" />
+        <activity
             android:name=".kotlinomnicure.activity.OTPActivity"
             android:exported="false" />
         <activity
@@ -28,7 +58,7 @@
             android:name=".kotlinomnicure.activity.FilterActivity"
             android:exported="false" />
         <activity
-            android:name=".kotlinomnicure.activity.MyVirtualTeamActivity"
+            android:name=".kotlinomnicure.activity.MyVirtualTeamsActivity"
             android:exported="false" />
         <activity
             android:name=".kotlinomnicure.activity.VideoPlayerActivity"

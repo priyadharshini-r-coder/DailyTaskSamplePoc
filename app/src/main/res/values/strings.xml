@@ -876,4 +876,5 @@
     <string name="sent_to">Sent to</string>
     <string name="marked_as_urgent">Marked as Urgent</string>
     <string name="video_preview">Video Preview</string>
+    <string name="font_family_regular"><![CDATA[sans-serif<]]></string>
 </resources>

@@ -19,6 +19,8 @@
         <entry key="..\:/TestProjectsGit/app/src/main/res/drawable/transparent_bg.xml" value="0.25833333333333336" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/font/font.xml" value="0.27239583333333334" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/action_layout_menu_my_consults.xml" value="0.2265625" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_attachment.xml" value="0.12545289855072464" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_attachment_filter.xml" value="0.23324275362318841" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_conditional_navigation.xml" value="0.14375" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_covid_country_detail.xml" value="0.15364583333333334" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_covid_tracker.xml" value="0.2265625" />
@@ -26,6 +28,7 @@
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_enotes.xml" value="0.2265625" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_enotes_detail.xml" value="0.2265625" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_enotes_details.xml" value="0.2265625" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_group_call.xml" value="0.22552083333333334" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_home_screen.xml" value="0.17300724637681159" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_hospital_list.xml" value="0.2421875" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_local_care_provider_sign_up_first.xml" value="0.22552083333333334" />
@@ -34,6 +37,7 @@
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_recycler_view_json.xml" value="0.2265625" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_video_player.xml" value="0.2265625" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/activity_vollley_ball.xml" value="0.16302083333333334" />
+        <entry key="..\:/TestProjectsGit/app/src/main/res/layout/attachment_filter.xml" value="0.23324275362318841" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/coffee_item.xml" value="0.2265625" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/donut_item.xml" value="0.2265625" />
         <entry key="..\:/TestProjectsGit/app/src/main/res/layout/example_item.xml" value="0.12409420289855072" />
