@@ -13,6 +13,9 @@
         android:theme="@style/Theme.DailyTaskSamplePoc"
         android:usesCleartextTraffic="true">
         <activity
+            android:name=".kotlinomnicure.activity.RemoteProviderDirectoryActivity"
+            android:exported="false" />
+        <activity
             android:name=".kotlinomnicure.activity.RegistrationSuccessActivity"
             android:exported="false" />
         <activity
