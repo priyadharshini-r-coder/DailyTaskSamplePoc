@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@color/statusbar_color_light</item>
+    </style>
+
+    <style name="AppTheme.NoActionBarDark">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@color/statusbar_color</item>
+    </style>
+
+    <style name="StatusBarDark" parent="AppTheme.NoActionBar">
+        <item name="android:statusBarColor">@color/statusbar_color</item>
+    </style>
+
+    <style name="StatusBarLight" parent="AppTheme.NoActionBar">
+        <item name="android:statusBarColor">@color/statusbar_color_light</item>
+    </style>
+
+  <!--  <style name="topAnimation" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/top_to_bottom</item>
+        <item name="android:windowExitAnimation">@anim/bottom_to_top</item>
+        <item name="android:statusBarColor">@color/successBar</item>
+
+    </style>-->
+
+</resources>
